@@ -38,7 +38,7 @@ def show_event_map(df, center=None):
         data=df,
         get_position="[longitude, latitude]",
         get_fill_color="color",
-        get_radius=1200,
+        get_radius=1500,
         pickable=True,
         auto_highlight=True,
     )

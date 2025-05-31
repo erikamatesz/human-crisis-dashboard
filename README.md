@@ -2,7 +2,7 @@
 
 This Streamlit application visualizes real-time data on humanitarian crises around the world, using the ACLED (Armed Conflict Location & Event Data) API. Users can filter data by country, date range, and event types, and view them on an interactive map.
 
-🔗 **Live App**: [https://human-crisis-dashboard.streamlit.app/](https://human-crisis-dashboard.streamlit.app/)
+🔗 **Live App**: [https://humanitarian-crisis-dashboard.streamlit.app/](https://humanitarian-crisis-dashboard.streamlit.app/)
 
 ## 🔎 Features
 
